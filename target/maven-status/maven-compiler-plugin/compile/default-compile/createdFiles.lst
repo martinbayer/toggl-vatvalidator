@@ -1,0 +1,4 @@
+cz/martinbayer/toggletest/vatvalidator/service/VatValidatorService.class
+cz/martinbayer/toggletest/vatvalidator/App.class
+cz/martinbayer/toggletest/vatvalidator/service/VatValidatorServiceImpl.class
+cz/martinbayer/toggletest/vatvalidator/exceptions/InvalidResponseException.class
